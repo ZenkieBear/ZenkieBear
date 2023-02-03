@@ -5,3 +5,5 @@ I'm Zenkie Bear. A new developer in Github.
 
 ## Contact
 - 📫: zq@zenkie.cn
+
+[![Zenkie Bear's GitHub stats](https://github-readme-stats.vercel.app/api?username=zenkiebear)](https://github.com/zenkiebear/github-readme-stats)
