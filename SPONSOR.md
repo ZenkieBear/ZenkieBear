@@ -4,4 +4,4 @@
 ## You can sponsor me through the following methods:
 
 - WeChat Pay / Alipay
-  [![mobile pagement](./sponsor.png)](./sponsor.png)
+  [![mobile pagement](./sponsor.png)](https://raw.githubusercontent.com/ZenkieBear/ZenkieBear/main/sponsor.png)
