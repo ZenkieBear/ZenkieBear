@@ -2,7 +2,7 @@
 I'm *Zenkie Bear*. A full-stack developer.
 - 💼 I’m currently working on Changsha, China.
 - ❤️ Music, Coding, Bodybuild.
-- 
+- ...
 
 ### Follow me
 - 📧: zq@zenkie.cn
@@ -13,7 +13,7 @@ I'm *Zenkie Bear*. A full-stack developer.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zenkiebear&layout=compact&theme=vue)](https://github.com/ZenkieBear)
 
 ### Projects
-[![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=zenkiebear&repo=glassmorphism&title_color=fff&icon_color=f9f9f9&text_color=ffffff&bg_color=1,3742fa,5352ed)](https://glassmorphism.art/)
+[![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=zenkiebear&repo=glassmorphism&title_color=fff&icon_color=f9f9f9&text_color=ffffff&bg_color=1,3742fa,5352ed)](https://github.com/ZenkieBear/glassmorphism)
 
 ### Be a sponsor
 If you like me or my projects, Click [here](./SPONSOR.md) to sponsor me.
