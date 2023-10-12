@@ -2,7 +2,6 @@
 I'm *Zenkie Bear*. A full-stack developer.
 - 💼 I’m currently working on Changsha, China.
 - ❤️ Music, Coding, Bodybuild.
-- ...
 
 ### Follow me
 - 📧: zq@zenkie.cn
@@ -52,6 +51,8 @@ I'm *Zenkie Bear*. A full-stack developer.
     <td>Figma/MasterGo/<a href='https://js.design/'>即时设计</a></td>
   </tr>
 </table>
+
+`🎯`: Learning
 
 ### Infomation
 [![Zenkie Bear's GitHub stats](https://github-readme-stats.vercel.app/api?username=zenkiebear&show_icons=true&include_all_commits=false&theme=vue)](https://github.com/ZenkieBear)
