@@ -15,7 +15,7 @@ I'm *Zenkie Bear*. A full-stack developer.
   </tr>
   <tr>
     <th>Back End</td>
-    <td>Java, C, Go(Learning)</td>
+    <td>Java, C#, C, Go(🎯)</td>
     <td>MySQL/MS-SQL/Oracle</td>
     <td>JSP/Thymeleaf</td>
     <td>SSM, SpringBoot, SpringCloud</td>
