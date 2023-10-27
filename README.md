@@ -7,6 +7,11 @@ I'm *Zenkie Bear*. A full-stack developer.
 - 📧: zq@zenkie.cn
 - 🗳️: [Codepen](https://codepen.io/zenkie)
 
+### Infomation
+[![Zenkie Bear's GitHub stats](https://github-readme-stats.vercel.app/api?username=zenkiebear&show_icons=true&include_all_commits=false&theme=vue)](https://github.com/ZenkieBear)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zenkiebear&layout=compact&theme=vue)](https://github.com/ZenkieBear)
+
 ### Stacks
 <table>
   <tr>
@@ -40,7 +45,7 @@ I'm *Zenkie Bear*. A full-stack developer.
     <td>ESLint & Prettier</td>
     <td>Git Hooks & Github Actions</td>
     <td colspan='100' rowspan='2'>
-       Interest => Study & Practice => Success.
+       Interest ❤️ => Study 📖 & Practice 💻 => Success. 🎉
     </td>
   </tr>
   <tr>
@@ -53,10 +58,6 @@ I'm *Zenkie Bear*. A full-stack developer.
 </table>
 
 `🎯`: Learning
-
-### Infomation
-[![Zenkie Bear's GitHub stats](https://github-readme-stats.vercel.app/api?username=zenkiebear&show_icons=true&include_all_commits=false&theme=vue)](https://github.com/ZenkieBear)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zenkiebear&layout=compact&theme=vue)](https://github.com/ZenkieBear)
 
 ### Projects
 [![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=zenkiebear&repo=glassmorphism&title_color=fff&icon_color=f9f9f9&text_color=ffffff&bg_color=1,3742fa,5352ed)](https://github.com/ZenkieBear/glassmorphism)
