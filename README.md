@@ -20,7 +20,7 @@ I'm *Zenkie Bear*. A full-stack developer.
   </tr>
   <tr>
     <th>Back End</td>
-    <td>Java, C#, C, Go(🎯)</td>
+    <td>Java, C#, C, Go🎯, Swift🎯</td>
     <td>MySQL/MS-SQL/Oracle</td>
     <td>JSP/Thymeleaf</td>
     <td>SSM, SpringBoot, SpringCloud</td>
@@ -36,7 +36,7 @@ I'm *Zenkie Bear*. A full-stack developer.
     <td>Vue</td>
     <td>React & NextJS</td>
     <td>Cesium</td>
-    <td>Framer Motion🎯</td>
+    <td>Framer Motion🎯, GSAP🎯</td>
   </tr>
   <tr>
     <th>Collaboration</th>
