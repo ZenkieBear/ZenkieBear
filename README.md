@@ -19,19 +19,27 @@ I'm *Zenkie Bear*. A full-stack developer.
     <th colspan='100'>Items</th>
   </tr>
   <tr>
-    <th>Back End</td>
-    <td>Java, C#, C, Go🎯, Swift🎯</td>
+    <th rowspan='2'>Back End</td>
+    <td>Java, C#, C, Swift🎯</td>
     <td>MySQL/MS-SQL/Oracle</td>
-    <td>JSP/Thymeleaf</td>
+    <td>JSP, Thymeleaf</td>
     <td>SSM, SpringBoot, SpringCloud</td>
     <td colspan='3'>Redis & RabbitMQ & Nginx & ElasticSearch</td>
     <td>Docker & Maven</td>
   </tr>
   <tr>
+    <td>Go</td>
+    <td>Gorm</td>
+    <td>Gin</td>
+    <td>Wire</td>
+    <td>Swaggo</td>
+    <td colspan='3'>Keep study 🚀</td>
+  </tr>
+  <tr>
     <th>Front End</td>
     <td>HTML(5)</td>
     <td>CSS(3), Less, Cass</td>
-    <td>JavaScript(ES6)/TypeScript</td>
+    <td>JavaScript(ES6), TypeScript</td>
     <td>NodeJS</td>
     <td>Vue</td>
     <td>React & NextJS</td>
